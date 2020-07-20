@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-hhhjj88-resource-spec-characteristic-e",
+  "editForm": "data-line-hhhjj88-resource-spec-characteristic-e",
+  "external": false,
+  "caption": "Resource_spec_characteristic",
+  "name": "DataLinehhhjj88resource_spec_characteristicL",
+  "className": "resource_spec_characteristicL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-resource-spec-characteristic",
+      "modelProjection": "resource_spec_characteristicL"
+    }
+  ]
+}

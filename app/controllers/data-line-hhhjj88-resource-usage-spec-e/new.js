@@ -1,0 +1,4 @@
+import DataLinehhhjj88resource_usage_specEController from '../data-line-hhhjj88-resource-usage-spec-e';
+
+var DataLinehhhjj88resource_usage_specENewController = DataLinehhhjj88resource_usage_specEController;
+export default DataLinehhhjj88resource_usage_specENewController;

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-hhhjj88-service-spec-e",
+  "editForm": "data-line-hhhjj88-service-spec-e",
+  "external": false,
+  "caption": "Service_spec",
+  "name": "DataLinehhhjj88service_specL",
+  "className": "service_specL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-service-spec",
+      "modelProjection": "service_specL"
+    }
+  ]
+}

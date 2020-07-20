@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-hhhjj88-dba-e",
+  "editForm": "data-line-hhhjj88-dba-e",
+  "external": false,
+  "caption": "Dba",
+  "name": "DataLinehhhjj88dbaL",
+  "className": "dbaL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-dba",
+      "modelProjection": "dbaL"
+    }
+  ]
+}

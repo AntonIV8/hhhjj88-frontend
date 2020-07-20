@@ -1,0 +1,4 @@
+import DataLinehhhjj88service_characteristicEController from '../data-line-hhhjj88-service-characteristic-e';
+
+var DataLinehhhjj88service_characteristicENewController = DataLinehhhjj88service_characteristicEController;
+export default DataLinehhhjj88service_characteristicENewController;

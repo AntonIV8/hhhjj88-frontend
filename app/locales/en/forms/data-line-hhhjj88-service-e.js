@@ -1,0 +1,20 @@
+export default {
+  caption: 'DataLinehhhjj88serviceE',
+  'name-caption': 'name',
+  'description-caption': 'description',
+  'dt_created-caption': 'dt_created',
+  'dt_started-caption': 'dt_started',
+  'dt_ended-caption': 'dt_ended',
+  'cfs_id.name-caption': 'cfs_id.name',
+  'parent_id.name-caption': 'parent_id.name',
+  'service_spec_id.name-caption': 'service_spec_id.name',
+  'contragent_id.contragent-caption': 'contragent_id.contragent',
+  'state.description-caption': 'state.description',
+  'customer_id.customer-caption': 'customer_id.customer',
+  'cfs_id-caption': 'cfs_id',
+  'parent_id-caption': 'parent_id',
+  'service_spec_id-caption': 'service_spec_id',
+  'contragent_id-caption': 'contragent_id',
+  'state-caption': 'state',
+  'customer_id-caption': 'customer_id'
+};

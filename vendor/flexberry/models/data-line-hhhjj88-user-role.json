@@ -1,0 +1,131 @@
+﻿{
+  "name": "DataLinehhhjj88user_role",
+  "modelName": "data-line-hhhjj88-user-role",
+  "className": "user_role",
+  "nameSpace": "DataLine.hhhjj88",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "user_id",
+      "relatedTo": "data-line-hhhjj88-usr",
+      "inverse": null
+    },
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "role_id",
+      "relatedTo": "data-line-hhhjj88-role",
+      "inverse": null
+    }
+  ],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "user_roleE",
+      "modelName": "data-line-hhhjj88-user-role",
+      "attrs": [],
+      "belongsTo": [
+        {
+          "lookupValue": null,
+          "lookupValueField": null,
+          "relationName": "user_id",
+          "belongsTo": [],
+          "hidden": false,
+          "attrs": [
+            {
+              "name": "login",
+              "caption": "Login",
+              "hidden": false,
+              "index": 1
+            }
+          ],
+          "index": 0,
+          "type": "default",
+          "caption": "User_id",
+          "name": "user_id",
+          "relatedTo": "data-line-hhhjj88-usr",
+          "inverse": null
+        },
+        {
+          "lookupValue": null,
+          "lookupValueField": null,
+          "relationName": "role_id",
+          "belongsTo": [],
+          "hidden": false,
+          "attrs": [
+            {
+              "name": "description",
+              "caption": "Description",
+              "hidden": false,
+              "index": 3
+            }
+          ],
+          "index": 2,
+          "type": "default",
+          "caption": "Role_id",
+          "name": "role_id",
+          "relatedTo": "data-line-hhhjj88-role",
+          "inverse": null
+        }
+      ],
+      "hasMany": []
+    },
+    {
+      "name": "user_roleL",
+      "modelName": "data-line-hhhjj88-user-role",
+      "attrs": [],
+      "belongsTo": [
+        {
+          "lookupValue": null,
+          "lookupValueField": null,
+          "relationName": "user_id",
+          "belongsTo": [],
+          "hidden": false,
+          "attrs": [
+            {
+              "name": "login",
+              "caption": "Login",
+              "hidden": false,
+              "index": 0
+            }
+          ],
+          "index": -1,
+          "type": "default",
+          "caption": "Login",
+          "name": "user_id",
+          "relatedTo": "data-line-hhhjj88-usr",
+          "inverse": null
+        },
+        {
+          "lookupValue": null,
+          "lookupValueField": null,
+          "relationName": "role_id",
+          "belongsTo": [],
+          "hidden": false,
+          "attrs": [
+            {
+              "name": "description",
+              "caption": "Description",
+              "hidden": false,
+              "index": 1
+            }
+          ],
+          "index": -1,
+          "type": "default",
+          "caption": "Description",
+          "name": "role_id",
+          "relatedTo": "data-line-hhhjj88-role",
+          "inverse": null
+        }
+      ],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

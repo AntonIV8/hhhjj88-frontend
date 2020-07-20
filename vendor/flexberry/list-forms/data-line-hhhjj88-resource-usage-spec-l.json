@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-hhhjj88-resource-usage-spec-e",
+  "editForm": "data-line-hhhjj88-resource-usage-spec-e",
+  "external": false,
+  "caption": "Resource_usage_spec",
+  "name": "DataLinehhhjj88resource_usage_specL",
+  "className": "resource_usage_specL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-resource-usage-spec",
+      "modelProjection": "resource_usage_specL"
+    }
+  ]
+}

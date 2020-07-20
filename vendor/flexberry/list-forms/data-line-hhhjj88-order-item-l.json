@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-hhhjj88-order-item-e",
+  "editForm": "data-line-hhhjj88-order-item-e",
+  "external": false,
+  "caption": "Order_item",
+  "name": "DataLinehhhjj88order_itemL",
+  "className": "order_itemL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-order-item",
+      "modelProjection": "order_itemL"
+    }
+  ]
+}

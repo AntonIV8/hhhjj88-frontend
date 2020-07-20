@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Product_catalog",
+  "name": "DataLinehhhjj88product_catalogE",
+  "className": "product_catalogE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-product-catalog",
+      "modelProjection": "product_catalogE"
+    }
+  ]
+}

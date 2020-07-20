@@ -1,0 +1,4 @@
+import DataLinehhhjj88resource_characteristic_logEController from '../data-line-hhhjj88-resource-characteristic-log-e';
+
+var DataLinehhhjj88resource_characteristic_logENewController = DataLinehhhjj88resource_characteristic_logEController;
+export default DataLinehhhjj88resource_characteristic_logENewController;

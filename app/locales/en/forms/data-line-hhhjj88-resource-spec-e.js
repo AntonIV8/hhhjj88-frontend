@@ -1,0 +1,21 @@
+export default {
+  caption: 'DataLinehhhjj88resource_specE',
+  'enum-caption': 'enum',
+  'type-caption': 'type',
+  'existent-caption': 'existent',
+  'shared-caption': 'shared',
+  'version-caption': 'version',
+  'name-caption': 'name',
+  'description-caption': 'description',
+  'category-caption': 'category',
+  'dt_created-caption': 'dt_created',
+  'dt_modified-caption': 'dt_modified',
+  'resource_common_id.name-caption': 'resource_common_id.name',
+  'parent_id.name-caption': 'parent_id.name',
+  'cardinality.description-caption': 'cardinality.description',
+  'parent_service_spec_id.name-caption': 'parent_service_spec_id.name',
+  'resource_common_id-caption': 'resource_common_id',
+  'parent_id-caption': 'parent_id',
+  'cardinality-caption': 'cardinality',
+  'parent_service_spec_id-caption': 'parent_service_spec_id'
+};

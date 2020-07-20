@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-hhhjj88-resource-e",
+  "editForm": "data-line-hhhjj88-resource-e",
+  "external": false,
+  "caption": "Resource",
+  "name": "DataLinehhhjj88resourceL",
+  "className": "resourceL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-resource",
+      "modelProjection": "resourceL"
+    }
+  ]
+}

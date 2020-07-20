@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Role",
+  "name": "DataLinehhhjj88roleE",
+  "className": "roleE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-role",
+      "modelProjection": "roleE"
+    }
+  ]
+}

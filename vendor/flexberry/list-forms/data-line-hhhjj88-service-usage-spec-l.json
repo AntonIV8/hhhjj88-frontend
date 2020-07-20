@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-hhhjj88-service-usage-spec-e",
+  "editForm": "data-line-hhhjj88-service-usage-spec-e",
+  "external": false,
+  "caption": "Service_usage_spec",
+  "name": "DataLinehhhjj88service_usage_specL",
+  "className": "service_usage_specL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-service-usage-spec",
+      "modelProjection": "service_usage_specL"
+    }
+  ]
+}

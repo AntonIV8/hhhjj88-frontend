@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-hhhjj88-order-state-e",
+  "editForm": "data-line-hhhjj88-order-state-e",
+  "external": false,
+  "caption": "Order_state",
+  "name": "DataLinehhhjj88order_stateL",
+  "className": "order_stateL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-order-state",
+      "modelProjection": "order_stateL"
+    }
+  ]
+}

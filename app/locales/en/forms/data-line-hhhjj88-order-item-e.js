@@ -1,0 +1,22 @@
+export default {
+  caption: 'DataLinehhhjj88order_itemE',
+  'action-caption': 'action',
+  'price-caption': 'price',
+  'dt_created-caption': 'dt_created',
+  'dt_modified-caption': 'dt_modified',
+  'log-caption': 'log',
+  'service_id.name-caption': 'service_id.name',
+  'parent_id.action-caption': 'parent_id.action',
+  'state.description-caption': 'state.description',
+  'service_order_id.description-caption': 'service_order_id.description',
+  'creator_id.login-caption': 'creator_id.login',
+  'modifier_id.login-caption': 'modifier_id.login',
+  'clone_service_id.name-caption': 'clone_service_id.name',
+  'service_id-caption': 'service_id',
+  'parent_id-caption': 'parent_id',
+  'state-caption': 'state',
+  'service_order_id-caption': 'service_order_id',
+  'creator_id-caption': 'creator_id',
+  'modifier_id-caption': 'modifier_id',
+  'clone_service_id-caption': 'clone_service_id'
+};

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-hhhjj88-product-catalog-e",
+  "editForm": "data-line-hhhjj88-product-catalog-e",
+  "external": false,
+  "caption": "Product_catalog",
+  "name": "DataLinehhhjj88product_catalogL",
+  "className": "product_catalogL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-product-catalog",
+      "modelProjection": "product_catalogL"
+    }
+  ]
+}

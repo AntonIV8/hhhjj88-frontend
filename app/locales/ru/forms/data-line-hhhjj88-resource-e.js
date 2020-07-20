@@ -1,0 +1,20 @@
+export default {
+  caption: 'Resource',
+  'name-caption': 'Name',
+  'description-caption': 'Description',
+  'external_id-caption': 'External_id',
+  'cfs_id.name-caption': 'Name',
+  'parent_id.name-caption': 'Name',
+  'resource_spec_id.name-caption': 'Name',
+  'resource_shared_id.name-caption': 'Name',
+  'contragent_id.contragent-caption': 'Contragent',
+  'parent_service_id.name-caption': 'Name',
+  'customer_id.customer-caption': 'Customer',
+  'cfs_id-caption': 'Cfs_id',
+  'parent_id-caption': 'Parent_id',
+  'resource_spec_id-caption': 'Resource_spec_id',
+  'resource_shared_id-caption': 'Resource_shared_id',
+  'contragent_id-caption': 'Contragent_id',
+  'parent_service_id-caption': 'Parent_service_id',
+  'customer_id-caption': 'Customer_id'
+};

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-hhhjj88-customer-acl-e",
+  "editForm": "data-line-hhhjj88-customer-acl-e",
+  "external": false,
+  "caption": "Customer_acl",
+  "name": "DataLinehhhjj88customer_aclL",
+  "className": "customer_aclL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-customer-acl",
+      "modelProjection": "customer_aclL"
+    }
+  ]
+}

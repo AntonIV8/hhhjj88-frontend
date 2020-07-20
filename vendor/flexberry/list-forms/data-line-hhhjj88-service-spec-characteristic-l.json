@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-hhhjj88-service-spec-characteristic-e",
+  "editForm": "data-line-hhhjj88-service-spec-characteristic-e",
+  "external": false,
+  "caption": "Service_spec_characteristic",
+  "name": "DataLinehhhjj88service_spec_characteristicL",
+  "className": "service_spec_characteristicL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-service-spec-characteristic",
+      "modelProjection": "service_spec_characteristicL"
+    }
+  ]
+}

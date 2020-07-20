@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Order_state",
+  "name": "DataLinehhhjj88order_stateE",
+  "className": "order_stateE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-order-state",
+      "modelProjection": "order_stateE"
+    }
+  ]
+}

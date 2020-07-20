@@ -1,0 +1,4 @@
+import DataLinehhhjj88resource_spec_characteristicEController from '../data-line-hhhjj88-resource-spec-characteristic-e';
+
+var DataLinehhhjj88resource_spec_characteristicENewController = DataLinehhhjj88resource_spec_characteristicEController;
+export default DataLinehhhjj88resource_spec_characteristicENewController;

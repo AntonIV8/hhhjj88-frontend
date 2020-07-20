@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Service_log",
+  "name": "DataLinehhhjj88service_logE",
+  "className": "service_logE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-service-log",
+      "modelProjection": "service_logE"
+    }
+  ]
+}

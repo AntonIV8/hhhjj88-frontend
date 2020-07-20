@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-hhhjj88-service-log-e",
+  "editForm": "data-line-hhhjj88-service-log-e",
+  "external": false,
+  "caption": "Service_log",
+  "name": "DataLinehhhjj88service_logL",
+  "className": "service_logL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-service-log",
+      "modelProjection": "service_logL"
+    }
+  ]
+}

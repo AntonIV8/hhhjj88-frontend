@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-hhhjj88-resource-shared-e",
+  "editForm": "data-line-hhhjj88-resource-shared-e",
+  "external": false,
+  "caption": "Resource_shared",
+  "name": "DataLinehhhjj88resource_sharedL",
+  "className": "resource_sharedL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-resource-shared",
+      "modelProjection": "resource_sharedL"
+    }
+  ]
+}

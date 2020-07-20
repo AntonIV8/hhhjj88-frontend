@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-hhhjj88-service-order-e",
+  "editForm": "data-line-hhhjj88-service-order-e",
+  "external": false,
+  "caption": "Service_order",
+  "name": "DataLinehhhjj88service_orderL",
+  "className": "service_orderL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-hhhjj88-service-order",
+      "modelProjection": "service_orderL"
+    }
+  ]
+}
